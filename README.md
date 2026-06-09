@@ -75,6 +75,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=berk3bicer&style=flat-square&color=569CD6" alt="Profile views" />
-</div>
