@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/berk3bicer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=569CD6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Berke+%F0%9F%91%8B;.NET+Backend+Developer;ASP.NET+Core+%2B+PostgreSQL;SAP+ABAP+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=569CD6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Berke+%F0%9F%91%8B;.NET+Backend+Developer;ASP.NET+Core+%2B+PostgreSQL" alt="Typing SVG" />
 </a>
 
 <p>
